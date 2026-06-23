@@ -4,7 +4,8 @@
 
 ---
 ## 📊 Dashboard Preview
-<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/b0975be6-a16e-421e-b610-45b7403e5c45" />
+<img width="2472" height="1374" alt="NeuralRetail_Dashboard_Collage" src="https://github.com/user-attachments/assets/965cbf9a-7924-4d2c-af5a-7a5c064f92a6" />
+
 
 ---
 ## 🔍 Project Overview
