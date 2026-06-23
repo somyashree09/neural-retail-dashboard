@@ -4,7 +4,7 @@
 
 ---
 ## 📊 Dashboard Preview
-
+NeuralRetail_Dashboard_Collage.png
 ---
 ## 🔍 Project Overview
 Retail businesses generate enormous volumes of data daily — but raw data alone doesn't drive decisions. **NeuralRetail** transforms retail transaction data into actionable business intelligence through a unified, interactive dashboard ecosystem.
